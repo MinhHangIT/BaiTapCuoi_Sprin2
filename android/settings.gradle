@@ -1,0 +1,3 @@
+rootProject.name = 'bai1_React'
+
+include ':app'
